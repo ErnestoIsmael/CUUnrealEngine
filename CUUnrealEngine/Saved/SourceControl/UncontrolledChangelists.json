@@ -18,13 +18,16 @@
 				"C:/Users/xarzx/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/2F/XTDQUHCYJJV6JCH4OJSVLG.uasset",
 				"C:/Users/xarzx/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/EO/0P4A0VYEOWX38SG32ZO3C7.uasset",
 				"C:/Users/xarzx/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/Input/IMC_Default.uasset",
-				"C:/Users/xarzx/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/Inputs/IA_Move.uasset",
-				"C:/Users/xarzx/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/Inputs/IA_Jump.uasset",
 				"C:/Users/xarzx/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/xarzx/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/Input/Actions/IA_Move.uasset",
 				"C:/Users/xarzx/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/Input/Actions/IA_Crouch.uasset",
 				"C:/Users/xarzx/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/27/6ZCCZ1F7ZO6DM3C8OLVGTF.uasset",
-				"C:/Users/xarzx/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/13/EPTYZCFZWXT7Z7XYKZ88XK.uasset"
+				"C:/Users/xarzx/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/13/EPTYZCFZWXT7Z7XYKZ88XK.uasset",
+				"C:/Users/xarzx/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/Characters/Mannequins/Anims/Unarmed/ABP_Unarmed.uasset",
+				"C:/Users/xarzx/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/Animations/Crouch.uasset",
+				"C:/Users/xarzx/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/Animations/CrouchWalk.uasset",
+				"C:/Users/xarzx/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/Inputs/IA_Move.uasset",
+				"C:/Users/xarzx/OneDrive/Documentos/GitHub/CUUnrealEngine/CUUnrealEngine/Content/Inputs/IA_Jump.uasset"
 			]
 		}
 	]
