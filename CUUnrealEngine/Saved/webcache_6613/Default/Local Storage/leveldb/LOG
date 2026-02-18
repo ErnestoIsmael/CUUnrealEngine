@@ -1,3 +1,8 @@
-2026/02/16-17:19:44.746 d64 Reusing MANIFEST C:\Users\xarzx\OneDrive\Documentos\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/02/16-17:19:44.753 d64 Recovering log #3
-2026/02/16-17:19:44.763 d64 Reusing old log C:\Users\xarzx\OneDrive\Documentos\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/02/18-12:10:03.624 5984 Reusing MANIFEST C:\Users\xarzx\OneDrive\Documentos\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/02/18-12:10:03.632 5984 Recovering log #3
+2026/02/18-12:10:03.632 5984 Level-0 table #3: started
+2026/02/18-12:10:03.640 5984 Level-0 table #3: 61894 bytes OK
+2026/02/18-12:10:03.641 5984 Recovering log #4
+2026/02/18-12:10:03.649 5984 Reusing old log C:\Users\xarzx\OneDrive\Documentos\GitHub\CUUnrealEngine\CUUnrealEngine\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/02/18-12:10:03.651 5984 Delete type=0 #3
+2026/02/18-12:10:03.651 5984 Delete type=2 #5
